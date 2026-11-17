@@ -1,4 +1,4 @@
-# Cross-Cultural-AI-negotiator-main-
+# Cross-Cultural-AI-negotiator
 
 # What is My Nego Agent
 
